@@ -1,0 +1,16 @@
+{
+  "name": "desarrolla2/Kata",
+  "autoload": {
+    "psr-4": {
+      "Kata\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Kata\\Tests\\": "tests"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5"
+  }
+}
